@@ -3,7 +3,7 @@
 /**
  * show todo list
  */
-function showTodoList()
+function showTodoList(): void
 {
     global $todoList;
 
